@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.GoBiblio" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorYellow</item>
+        <item name="colorPrimaryVariant">@color/colorLight</item>
+        <item name="colorOnPrimary">@color/colorBlack</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@android:color/transparent</item>
+        <!-- Font for app -->
+        <item name="fontFamily">@font/my_font</item>
+        <item name="android:fontFamily">@font/my_font</item>
+    </style>
+</resources>

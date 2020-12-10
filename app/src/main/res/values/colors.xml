@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    App Colors-->
+
+    <color name="colorYellow">#EA9901</color>
+    <color name="colorLight">#EFC77A</color>
+    <color name="colorLighter">#F2D9AB</color>
+    <color name="colorGray">#F6F6F6</color>
+    <color name="colorDarkGray">#868686</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+
+
+</resources>
